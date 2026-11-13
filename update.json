@@ -8,6 +8,18 @@
   "apk_md5": "34f312463c8182d7b38f216d1707f865",
   "changelog": "1. 彻底修复网络请求问题\n2. 解决更新弹窗逻辑",
   "tinker_patch": null,
-  "plugins": [],
+  "plugins": [
+    {
+      "id": "calculator",
+      "version": "1.0.0",
+      "version_code": 1,
+      "min_host_version": 1,
+      "url": "https://myfuwuqi2.github.io/APPserver/calculator.apk",
+      "size": 0,
+      "md5": "",
+      "is_new": true,
+      "changelog": "第一个测试插件：超级计算器"
+    }
+  ],
   "h5_packages": []
 }
